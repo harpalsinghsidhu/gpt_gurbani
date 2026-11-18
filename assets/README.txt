@@ -1,0 +1,1 @@
+Place a properly licensed Gurmukhi .ttf font here and name it Gurmukhi.ttf. No font is bundled.
