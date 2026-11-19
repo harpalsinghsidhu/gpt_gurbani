@@ -1,9 +1,10 @@
 [app]
 title = SGGS Paath Reader
+icon.filename = icon.png
 package.name = sggspaathreader
 package.domain = org.paathreader
 source.dir = .
-source.include_exts = py,kv,ttf,db,csv,txt
+source.include_exts = py,kv,ttf,db,csv,txt,png
 version = 0.1.0
 requirements = python3,kivy
 orientation = portrait
