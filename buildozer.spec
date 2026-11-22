@@ -1,4 +1,6 @@
 [app]
+presplash.filename = presplash.png
+presplash.color = #FFFFFF
 title = SGGS Paath Reader
 icon.filename = icon.png
 package.name = sggspaathreader
