@@ -8,7 +8,7 @@ package.domain = org.paathreader
 source.dir = .
 source.include_exts = py,kv,ttf,db,csv,txt,png
 version = 0.1.0
-requirements = hostpython3==3.11.5,python3==3.11.5,kivy==2.3.0
+requirements = hostpython3==3.11.5,python3==3.11.5,kivy==2.3.0,sqlite3
 orientation = portrait
 fullscreen = 0
 
